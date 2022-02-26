@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+h4{
+    text-align: center;
+    color: white;
+    margin-top: 0%;
+}
+
+.pic{
+    margin-left: 400px;
+    margin-bottom: 50px;
+    
+} 
+ h2{
+     color: white;
+     margin-left: 150px;
+ }
+
+ p{
+     color:  #757575;
+     margin-left: 200px;
+     margin-bottom: 10px;
+ }
+
+ audio{
+     margin-left: 300px;
+ }
+
+video{
+    margin-top: 50px;
+    margin-left: 300px;
+   
+}
